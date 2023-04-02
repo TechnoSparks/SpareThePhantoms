@@ -16,7 +16,7 @@ Comprehensive documentation about this phenomenon [here](https://github.com/agno
 
 ### Requirements
 - Magisk version 23 or newer
-- Android 12L and newer
+- Android 12L or newer
 
 ### Installing
 Flash the zip (Releases section) in Magisk Manager or in recovery.
