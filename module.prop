@@ -1,6 +1,6 @@
 id=ts_SpareThePhantoms
 name=Spare the Phantoms
-version=v1.0.0
+version=v1.0.0-1
 versionCode=2023040201
 author=TechnoSparks
 description=This module enforces the sparing of phantom processes from being killed.
